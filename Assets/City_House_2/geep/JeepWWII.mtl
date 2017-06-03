@@ -1,0 +1,206 @@
+newmtl Material__12
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/front wheel.jpg
+
+newmtl Material__12_left_front_wheel_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/front wheel.jpg
+
+newmtl Material__12_back_wheels_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/back wheels.jpg
+
+newmtl Material__12_TOCHANG4_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/to change wheel.jpg
+
+newmtl Preview
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/glass frame.jpg
+
+newmtl Preview_glass_1
+d 0.31068
+Ns 0.514417
+Ni 0
+Ka 0 0 0
+Kd 0.811765 0.811765 0.811765
+Ks 0.121569 0.121569 0.121569
+Km 0.02
+map_Kd /Maps/trans glass.jpg
+
+newmtl Preview_DOWN_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.054902 0.054902 0.054902
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+
+newmtl Preview_GLASS_CLEANER_LEFT_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.247059 0.247059
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+
+newmtl Preview_GLASS_CLEANER_RIGHT_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.247059 0.247059
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+
+newmtl DEFAULT
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/mirror .jpg
+
+newmtl Material__9
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/gun machine.jpg
+
+newmtl Material__12_CHANGE_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.247059 0.247059
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+
+newmtl Material__2
+d 0.436893
+Ns 0.533641
+Ni 0
+Ka 0.309804 0.309804 0.309804
+Kd 0.368627 0.368627 0.368627
+Ks 0.619608 0.619608 0.619608
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__7
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__12_main_body_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__8
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__11
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__4
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__3
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
+newmtl Material__9_main_body_1
+d 1
+Ns 0.5
+Ni 0
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.054902 0.054902 0.054902
+Km 0.02
+map_Kd /Maps/main body jeep.jpg
+
